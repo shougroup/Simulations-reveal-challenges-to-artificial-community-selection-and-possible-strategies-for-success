@@ -2,4 +2,6 @@
 
 ![RestrictingMutations](RestrictingMutations.png)
 
+Selection dynamics of H-M communities when mutations are restricted to the last 20% of each maturation cycle. The mutation rate is adjusted so that the numbers of mutation events are comparable for the upper and the lower panels. Black, cyan and gray curves are three independent simulation trials.
+
 Restricting mutation events to the end of a community maturation cycle might help community selection since non-producers will not have time to take over, postulated Daniel Weissman (Emory Physics). We performed simulations with or without restricting mutations to the last 20% of each maturation cycle while keeping the total mutation events per cycle comparable. We observed similar selection outcomes. This is presumably due to (at least) the following reasons: First, even if we do not restrict mutation events, 50% of cell division events -- and thus 50% of mutations -- occur during the last division cycle. Second, we have already set the maturation cycle to be short (6~7 generations) so that newly-arising non-producers will not have a chance to take over. Third, restricting the timing of mutations does not resolve the problem of interference from non-heritable variations in community function.
