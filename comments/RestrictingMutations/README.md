@@ -1,4 +1,4 @@
-## [Restricting mutation events to the end of a community maturation cycle may not help community selection](https://github.com/shougroup/artificial-community-selection/raw/master/comments/RestrictingMutations/RestrictingMutations.png)
+## Restricting mutation events to the end of a community maturation cycle may not help community selection
 
 ![RestrictingMutations](RestrictingMutations.png)
 
